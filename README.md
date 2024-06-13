@@ -42,4 +42,4 @@ In summary, a Q&A bot is a versatile tool that leverages AI to streamline commun
     streamlit run app.py
     ```
 
-
+/Users/sachinsen/Documents/Generative Ai/Projects/LLM Chat Model Gemini Pro/Screenshot 2024-06-14 at 12.16.25 AM.png

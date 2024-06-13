@@ -27,6 +27,7 @@ load_dotenv() #take env variable from .env
 API_Key  = os.getenv("GOOGLE_GEMINI_API")
 genai.configure(api_key=API_Key)
 
+
 def get_gemini_reponse(question):
     model = genai.GenerativeModel("gemini-pro")
     response = model.generate_content(question)
